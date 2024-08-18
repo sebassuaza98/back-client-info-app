@@ -1,0 +1,13 @@
+[
+    {
+        "documentType": "C",
+        "document": "23445322",
+        "firstName": "Juan",
+        "middleName": "Carlos",
+        "lastName": "Perez",
+        "secondLastName": "Lopez",
+        "phone": "3001234567",
+        "address": "Calle 123 #45-67",
+        "city": "Bogotá"
+    }
+]
